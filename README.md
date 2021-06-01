@@ -5,3 +5,6 @@ Neste Repositório irei adicionar todas as aplicações mobile já feitas no Kod
 
 ## Passos
 -Aplicativo sobre contador de passos
+
+## GPS
+-Aplicativo com Sensor de Localização e Iniciador de Atividades
